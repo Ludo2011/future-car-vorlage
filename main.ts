@@ -36,4 +36,5 @@ basic.forever(function () {
     basic.pause(2000)
     Motor_links(70)
     Motor_rechts(-70)
+    basic.pause(2000)
 })
